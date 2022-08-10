@@ -1,11 +1,1 @@
-us1.freevpn724.com|freevpn724|u5tf696
-us1.sshagan.us|sshagan|agan2021
-us2.sshagan.us|sshagan|agan2021
-us3.sshagan.us|sshagan|agan2021
-us4.sshagan.us|sshagan|agan2021
-us5.sshagan.us|sshagan|agan2021
-us6.sshagan.us|sshagan|agan2021
-us7.sshagan.us|sshagan|agan2021
-us1.vpnbook.com|vpnbook|mzw6x8e
-us2.vpnbook.com|vpnbook|mzw6x8e
-end
+us1.freevpn724.com|freevpn724|u5tf696/us1.sshagan.us|sshagan|agan2021/us2.sshagan.us|sshagan|agan2021/us3.sshagan.us|sshagan|agan2021/us4.sshagan.us|sshagan|agan2021/us5.sshagan.us|sshagan|agan2021/us6.sshagan.us|sshagan|agan2021/us7.sshagan.us|sshagan|agan2021/us1.vpnbook.com|vpnbook|mzw6x8e/us2.vpnbook.com|vpnbook|mzw6x8e/end
