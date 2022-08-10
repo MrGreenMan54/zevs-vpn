@@ -1,4 +1,1 @@
-server1.freevpn.me|freevpn.me|j2Dbr4eTgbAc
-fr1.vpnbook.com|vpnbook|mzw6x8e
-fr8.vpnbook.com|vpnbook|mzw6x8e
-end
+server1.freevpn.me|freevpn.me|j2Dbr4eTgbAc/fr1.vpnbook.com|vpnbook|mzw6x8e/fr8.vpnbook.com|vpnbook|mzw6x8e/end

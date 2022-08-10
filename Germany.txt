@@ -1,3 +1,1 @@
-de1.sshagan.us|sshagan|agan2021
-de4.vpnbook.com|vpnbook|mzw6x8e
-end
+de1.sshagan.us|sshagan|agan2021/de4.vpnbook.com|vpnbook|mzw6x8e/end
